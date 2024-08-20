@@ -1,6 +1,6 @@
 <?php 
 
-   $car=array('RANG ROWER','BMW','RR');
+   $car=array('Defender','G-Wegonr','Thar');
    
    print_r($car);
 

@@ -1,7 +1,7 @@
 <?php
 
   $object=new stdClass;
-  $object->name="Umang";
+  $object->name="Pradip";
   $object->age=21;
   $object->marks=85;
   
